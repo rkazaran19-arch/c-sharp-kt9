@@ -1,3 +1,5 @@
+using App.T1_CustomDictionary;
+
 namespace App.Tests.T1_CustomDictionary;
 
 [TestFixture]
