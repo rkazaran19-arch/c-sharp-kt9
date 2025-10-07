@@ -1,3 +1,5 @@
+using App.T2_WarehouseManager;
+
 namespace App.Tests.T2_WarehouseManager;
 
 [TestFixture]
